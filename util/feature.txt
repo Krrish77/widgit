@@ -1,5 +1,5 @@
 feature 1 implementation
 
 feature 2 implementation
-
+additional capabilities
 feature 3 implementation
